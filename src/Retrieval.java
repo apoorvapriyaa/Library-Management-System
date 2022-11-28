@@ -48,7 +48,7 @@ public class Retrieval extends JFrame {
                 DefaultTableModel tm = (DefaultTableModel) tb1.getModel();
                 try {
                     Class.forName("com.mysql.cj.jdbc.Driver");
-                    Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Management", "root", "apoorva77");
+                    Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Management", "root", "password");
                     Statement sm = con.createStatement();
                     String query = "Select * from Library;";
                     ResultSet rs = sm.executeQuery(query);
