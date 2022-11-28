@@ -1,4 +1,4 @@
-# Libray-Management-System 📚🔖
+# Library-Management-System 📚🔖
 A Library Management System GUI made using Java Swing UI. This Application aims at easing up the Record-Maintainence task at Libraries.
 
 ## Modules Used:
