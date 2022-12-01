@@ -6,7 +6,7 @@ A Library Management System GUI made using Java Swing UI. This Application aims 
 - SQL
 
 ## Methodology
-The GUI is linked to the mySql database where the actual records are stored. Using the interface, a user can easily do tasks such as Inserting new records, Updating existing records, deleting the records and Retrieving the data from the table. This eases up the process of having to write the sql queries manually.
+The GUI is linked to the mySql database where the actual records are stored. Using the interface, a user can easily do tasks such as inserting new records, updating existing records, deleting the records and retrieving the data from the table. This eases up the process of having to write the sql queries manually.
 
 #### Inserting Records:
 ![insert](images/insert.png)
